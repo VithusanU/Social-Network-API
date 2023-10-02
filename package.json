@@ -1,0 +1,21 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VithusanU/Social-Network-API"
+  },
+  "author": "VithusanU",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "jest": "^29.7.0",
+    "sequelize": "^6.33.0",
+    "sqlite3": "^5.1.6"
+  }
+}
